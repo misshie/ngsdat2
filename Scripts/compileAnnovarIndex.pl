@@ -1,4 +1,6 @@
 #!/usr/bin/env perl
+# based on the SeqAnswers discussion at http://seqanswers.com/forums/showthread.php?t=23535 
+
 use warnings;
 use strict;
 
