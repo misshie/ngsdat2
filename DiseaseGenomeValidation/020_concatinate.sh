@@ -3,6 +3,7 @@ refd=RefHg38
 decoy=decoyJRGv2.fasta
 d=hg38.analysisSet.chroms
 out=hg38.fasta
+
 pushd ${refd}
 cat \
     $d/chr1.fa $d/chr2.fa $d/chr3.fa $d/chr4.fa $d/chr5.fa \

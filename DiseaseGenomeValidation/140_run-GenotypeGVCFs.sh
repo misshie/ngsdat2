@@ -8,6 +8,7 @@ pad=100
 gvcf=${id}.g.vcf.gz
 vcf=${id}.both.vcf.gz
 javaopt="-Xmx4g"
+
 ${gatk} --java-options ${javaopt} \
 	GenotypeGVCFs \
 	-R ${ref} \
