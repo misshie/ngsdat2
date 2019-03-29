@@ -5,6 +5,6 @@ sra=DRR002191.sra
 fq1=DRR002191_1.fastq
 fq2=DRR002191_2.fastq
 
-{fdump} --split-files ${sra}
+${fdump} --split-files ${sra}
 gzip ${fq1}
 gzip ${fq2}
