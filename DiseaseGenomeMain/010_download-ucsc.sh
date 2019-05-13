@@ -8,6 +8,6 @@ suffix=__TEMP__
 mkdir -p ${refd}
 pushd ${refd}
 curl ${u1}/${u2}/${u3} -o ${u3}${suffix} \
-     && mv ${u3}${suffix} ${u3}$
+     && mv ${u3}${suffix} ${u3}
 tar zxvf ${u3}
 popd
