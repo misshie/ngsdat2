@@ -10,5 +10,5 @@ cat \
     $d/chr11.fa $d/chr12.fa $d/chr13.fa $d/chr14.fa $d/chr15.fa \
     $d/chr16.fa $d/chr17.fa $d/chr18.fa $d/chr19.fa $d/chr20.fa \
     $d/chr21.fa $d/chr22.fa $d/chrX.fa $d/chrY.fa $d/chrM.fa \
-    $d/chrEBV.fa $decoy > $out
+    $d/chrEBV.fa ../$decoy > $out
 
