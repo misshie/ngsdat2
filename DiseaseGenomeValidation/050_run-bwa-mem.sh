@@ -1,6 +1,6 @@
 #!/bin/bash
 set -euo pipefail
-bwa=../bwa-0.7.17/bwa
+bwa=bwa-0.7.17/bwa
 id=DRR002191
 fq1=${id}_1.fastq.gz
 fq2=${id}_2.fastq.gz
@@ -12,4 +12,3 @@ ${bwa} mem \
        ${ref} \
        ${fq1} ${fq2} \
     | samtools view -@4 -b -1 - > ${id}.bam
-
