@@ -2,8 +2,8 @@
 set -euo pipefail
 pcd=picard
 st=samtools
-fasta=hg38.fasta
-dict=hg38.dict
+fasta=RefHg38/hg38.fasta
+dict=RefHg38/hg38.dict
 ${pcd} CreateSequenceDictionary \
        REFERENCE=${fasta} \
        OUTPUT=${dict}
