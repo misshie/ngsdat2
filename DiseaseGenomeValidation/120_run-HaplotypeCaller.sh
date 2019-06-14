@@ -2,7 +2,7 @@
 set -euo pipefail
 gatk=gatk-4.1.0.0/gatk
 ref=RefHg38/hg38.fasta
-id=DRR006760
+id=DRR002191
 bami=${id}.sort.dedup.recal.bam
 bait=ccds.sort.bed
 dbsnp=dbsnp_146.hg38.vcf.gz

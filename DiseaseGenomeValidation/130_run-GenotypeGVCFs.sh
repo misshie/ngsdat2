@@ -2,7 +2,7 @@
 set -euo pipefail
 gatk=RefHg38/gatk-4.1.0.0/gatk
 ref=hg38.fasta
-id=DRR006760
+id=DRR002191
 bait=ccds.sort.bed
 pad=100
 gvcf=${id}.g.vcf.gz

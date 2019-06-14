@@ -2,7 +2,7 @@
 set -euo pipefail
 gatk=gatk-4.1.0.0/gatk
 ref=RefHg38/hg38.fasta
-id=DRR006760
+id=DRR002191
 snvi=${id}.snv.raw.vcf.gz
 snvo=${id}.snv.pass.vcf.gz
 indeli=${id}.indel.raw.vcf.gz
