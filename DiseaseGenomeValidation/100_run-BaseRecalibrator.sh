@@ -1,6 +1,6 @@
 #!/bin/bash
 set -euo pipefail
-gatk=gatk-4.1.0.0/gatk
+gatk=gatk-4.1.2.0/gatk
 id=DRR002191
 bami=${id}.sort.dedup.bam
 bamo=${id}.sort.dedup.recal.bam
