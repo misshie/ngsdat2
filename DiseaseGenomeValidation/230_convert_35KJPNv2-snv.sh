@@ -1,7 +1,7 @@
 #!/bin/zsh
 d=20181105open
 dl=Downloads
-separator=../Scripts/tommo_separate_alternatives.rb
+separator="ruby ../Scripts/tommo_separate_alternatives.rb"
 
 pushd annovar-hg38
 # AF
