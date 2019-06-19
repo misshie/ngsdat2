@@ -20,6 +20,3 @@ ${gatk} --java-options ${javaopt} \
 	--ERC GVCF \
 	--dbsnp ${dbsnp} \
 	--sample-name ${id}
-
-
-

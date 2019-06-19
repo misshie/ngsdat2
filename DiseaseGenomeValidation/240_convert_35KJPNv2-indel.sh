@@ -18,7 +18,7 @@ foreach vcf in ${dl}/{tommo-3.5kjpnv2-${d}-af_indelall-chrX_PAR3.vcf.gz}
   gunzip -c ${vcf} | perl -F"\t" -lane '$F[7] =~ s/AC=.*?;AN=\d+;AF=.*?;(.*)/$1/; $F[7] =~ s/(AF_MALE|AF_FEMALE)=.*?;//g; $F[7] =~ s/;ANN=.*//; $F[7] =~ s/AC_FEMALE/ AC_FEMALE/; print join("\t", @F[0,1,1,3,4], $F[7])'
 end | grep -v "^#" >> tommo-3.5kjpnv2-${d}-af_indelall.INFO.genericdb.org
 #
-./tommo_separate_alternatives.rb \
+../Scripts/tommo_separate_alternatives.rb \
     tommo-3.5kjpnv2-${d}-af_indelall.INFO.genericdb.org \
     > tommo-3.5kjpnv2-${d}-af_indelall.INFO.genericdb
 echo "complete"

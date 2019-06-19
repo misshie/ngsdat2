@@ -1,6 +1,6 @@
 #!/bin/bash
 set -euo pipefail
-gatk=gatk-4.1.0.0/gatk
+gatk=gatk-4.1.2.0/gatk
 ref=RefHg38/hg38.fasta
 id=DRR006760
 bait=ccds.sort.bed
