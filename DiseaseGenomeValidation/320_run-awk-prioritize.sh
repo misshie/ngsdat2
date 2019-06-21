@@ -1,6 +1,6 @@
 #!/bin/bash
 set -euo pipefail
-id=DRR006760
+id=DRR002191
 ref=hg38
 forig=${id}.${ref}_multianno.txt
 f1=${id}.${ref}_p01_rare.txt

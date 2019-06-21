@@ -1,11 +1,11 @@
-dg#!/bin/bash
+#!/bin/bash
 set -euo pipefail
 avd=./annovar
 tabav=table_annovar.pl
 conv=convert2annovar.pl
 dbd=annovar-hg38
 bver=hg38
-id=DRR006760
+id=DRR002191
 vcf=${id}.all.pass.vcf.gz
 avi=${id}.all.pass.avinput
 g1=tommo-3.5kjpnv2-20181105open-af_snvall.INFO.genericdb      
