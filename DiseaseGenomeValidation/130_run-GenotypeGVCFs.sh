@@ -16,8 +16,3 @@ ${gatk} --java-options ${javaopt} \
 	-O ${vcf} \
 	-L ${bait} \
 	-ip ${pad}
-
-
-
-
-

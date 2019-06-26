@@ -12,6 +12,7 @@ g1=tommo-3.5kjpnv2-20181105open-af_snvall.INFO.genericdb
 g2=tommo-3.5kjpnv2-20181105open-af_snvall.MAF.genericdb       
 g3=tommo-3.5kjpnv2-20181105open-af_indelall.INFO.genericdb    
 g4=tommo-3.5kjpnv2-20181105open-af_indelall.MAF.genericdb     
+
 export PATH=${avd}:${PATH}
 ${conv} \
     --format vcf4 \

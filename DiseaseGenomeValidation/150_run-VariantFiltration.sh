@@ -8,6 +8,7 @@ snvo=${id}.snv.pass.vcf.gz
 indeli=${id}.indel.raw.vcf.gz
 indelo=${id}.indel.pass.vcf.gz
 javaopt="-Xmx4g"
+
 ${gatk} --java-options ${javaopt} \
 	VariantFiltration \
 	-R ${ref} \

@@ -12,4 +12,3 @@ ${gatk} ApplyBQSR \
 	--output ${bamo} \
 	--reference ${ref} \
 	--bqsr-recal-file ${recaltab}
-

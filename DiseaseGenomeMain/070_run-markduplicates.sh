@@ -4,6 +4,7 @@ pcd=picard
 bami=${id}.sort.bam
 bamo=${id}.sort.dedup.bam
 metr=${id}.sort.dedup.bam.metrix.txt
+
 picard MarkDuplicates \
        INPUT=${bami} \
        OUTPUT=${bamo} \

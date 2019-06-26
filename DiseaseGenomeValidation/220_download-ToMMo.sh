@@ -4,6 +4,7 @@ u1=https://jmorp.megabank.tohoku.ac.jp/dj1/datasets
 u2=tommo-3.5kjpnv2-20181105open-af_snvindelall/files
 datad=annovar-hg38/Downloads
 pre=tommo-3.5kjpnv2-20181105open
+
 mkdir -p ${datad}
 pushd ${datad}
 fs=(

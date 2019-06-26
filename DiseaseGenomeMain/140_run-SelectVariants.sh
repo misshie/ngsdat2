@@ -7,6 +7,7 @@ raw=${id}.both.vcf.gz
 snv=${id}.snv.raw.vcf.gz
 indel=${id}.indel.raw.vcf.gz
 javaopt="-Xmx4g"
+
 ${gatk} --java-options ${javaopt} \
 	SelectVariants \
 	-R ${ref} \
@@ -19,5 +20,3 @@ ${gatk} --java-options ${javaopt} \
 	-V ${raw} \
 	--select-type-to-include INDEL \
 	-O ${indel}
-
-

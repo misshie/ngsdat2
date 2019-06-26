@@ -9,6 +9,7 @@ dbsnp=dbsnp_146.hg38.vcf.gz
 pad=100
 gvcf=${id}.g.vcf.gz
 javaopt="-Xmx4g"
+
 ${gatk} --java-options ${javaopt} \
 	HaplotypeCaller \
 	-I ${bami} \
@@ -19,5 +20,3 @@ ${gatk} --java-options ${javaopt} \
 	--ERC GVCF \
 	--dbsnp ${dbsnp} \
 	--sample-name ${id}
-
-

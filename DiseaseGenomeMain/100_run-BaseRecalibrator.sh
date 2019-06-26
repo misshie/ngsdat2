@@ -8,6 +8,7 @@ ref=RefHg38/hg38.fasta
 recaltab=${id}.sort.dedup.recaltab.txt
 known1=dbsnp_146.hg38.vcf.gz
 known2=Mills_and_1000G_gold_standard.indels.hg38.vcf.gz
+
 ${gatk} BaseRecalibrator \
        --input ${bami} \
        --reference ${ref} \
