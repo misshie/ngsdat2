@@ -9,6 +9,7 @@
 ### 質問・コメントなど
 - Twitter ハッシュタグ `#NGS_DAT` をつけてツイートしてください。他の方の質問もみられますのでおすすめします。
 - GitHubの-[issueページ](https://github.com/misshie/ngsdat2/issues) 経由でのコメントやプルリクエストも歓迎いたします。
+- 直接のメールなどは、質問内容の共有がむずかしいので最後の手段にしていただけると助かります。
 
 ## License
 MIT License. Written by MISHIMA, Hiroyuki.
