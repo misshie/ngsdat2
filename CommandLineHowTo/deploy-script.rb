@@ -10,8 +10,7 @@ class DeployScript
   def run
     Dir["#{SAMPLE_PREFIX}*"].each do |dir|
       template = ERB.new File.read(TEMPLATE)
-      Dir.chdir(dir) do
-        
+      Dir.chdir(dir) do        
         Object.new.instance_exec(:sample => sample_name(dir)) do |argh| 
           argh.each{|k,v| instance_variable_set("@#{k}", v)}
           open(TEMPLATE.sub(/\.rtxt\z/, ''), "w") do |fout|
