@@ -1,5 +1,5 @@
 # NGSDAT2
-## 次世代シークエンサー DRY解析教本改訂第２版
+## 次世代シークエンサー DRY解析教本 改訂第２版
 ### 疾患ゲノム解析ver.2／コマンドラインの使い方 サポート情報
 
 1. [DiseaseGenomeMain](https://github.com/misshie/ngsdat2/tree/master/DiseaseGenomeMain)  疾患ゲノム解析２ 本編スクリプト群
