@@ -1,5 +1,5 @@
 # NGSDAT2
-## NGSデータ解析教本２
+## 次世代シークエンサーデータ解析教本改訂第２版：疾患ゲノム解析ver.2サポート情報
 
 1. DiseaseGenomeMain  疾患ゲノム解析２ 本編スクリプト群
 2. DiseaseGenomeValidation 疾患ゲノム解析２ 検証編スクリプト群
