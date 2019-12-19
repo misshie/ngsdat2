@@ -17,9 +17,9 @@
 
 | 項目 | URL |
 | --- | --- |
-|Level 1| |
+| ■Level 1| |
 |コマンドラインの使い方| https://github.com/misshie/ngsdat2 |
-| Level 2（実践編）| |
+| ■Level 2（実践編）| |
 | 0 から始める疾患ゲノム解析 ver2 |  https://github.com/misshie/ngsdat2 |
 | 0 から始める発現解析 ver2 | https://github.com/RolyPolyCoily/NGSv2 |
 | 0 から始めるエピゲノム解析（ChIP-seq）ver2 | https://github.com/yuifu/ngsdat2_epigenome_chipseq |
@@ -28,21 +28,23 @@
 | 0 から始めるバクテリアゲノム解析 | https://github.com/nigyta/bact_genome |
 | 0 から始める動物ゲノムアセンブリ | https://gist.github.com/gaou/5035b2aae9978dfc00c55cb10736e272 |
 | 0 から始めるトランスクリプトームアセンブル解析 | https://github.com/bonohu/denovoTA |
-| CWL（Common Workflow Language）があれば，DRY
-解析はもう怖くない | https://github.com/pitagora-network/DAT2-cwl |
-| Level 3（応用編）| |
-| ゲノムブラウザー風の可視化を R の基本作図関数を組み
-合わせて実現する | https://github.com/cb-yokoyama/DRYbook |
-| シングルセル RNA-seq で擬時間に対する発現量変動を
-クラスタリングし，クラスターごとの平均と代表的な遺
-伝子の発現量を可視化する| https://github.com/yuifu/tutorial-RamDA-paper-
-fugures/ |
-| | |
-| | |
-| | |
-| | |
-| | |
-
+| CWL（Common Workflow Language）があれば，DRY解析はもう怖くない | https://github.com/pitagora-network/DAT2-cwl |
+| ■Level 3（応用編）| |
+| ゲノムブラウザー風の可視化を R の基本作図関数を組み合わせて実現する | https://github.com/cb-yokoyama/DRYbook |
+| シングルセル RNA-seq で擬時間に対する発現量変動をクラスタリングし，クラスターごとの平均と代表的な遺伝子の発現量を可視化する| https://github.com/yuifu/tutorial-RamDA-paper-fugures/ |
+| 臨床検査値と疾患の遺伝的相関（genetic correlation）ネットワーク図 | https://github.com/mkanai/ldsc-corrplot-rg |
+| メンデルランダム化解析（Mendelian randomization）に基づく臨床検査値と疾患の因果関係の可視化 | https://github.com/mkanai/mr-forestplot |
+| 等高線散布図による DNA メチル化の比較 | https://github.com/KenShirane/PGCLC_methylome |
+| 公共データベースに登録された NGS データの分布を可視化する | https://github.com/inutano/sra-quanto/ |
+| メタ 16S シーケンスの各サンプルから得られたリード数の分布を生物分類ごとに可視化する | https://github.com/inutano/ohanami-project-manuscript/ |
+| メタ 16S シーケンスリードの BLAST 結果を用いて，サンプル間で共通して存在する生物種を可視化する | https://github.com/inutano/ohanami-project-manuscript/ |
+| 特定の GO term がアノテーションされた遺伝子群の発現差の可視化 | https://github.com/khirota-kyt/dry_analysis |
+| LocusZoom プロット：連鎖不平衡情報とともにゲノムワイド関連解析のシグナルを可視化する | https://github.com/hacchy1983/sample-code-for-LocusZoom-plot |
+| 遺伝子近傍の DNA メチル化レベルを可視化する | https://github.com/sin-ttk/DNA-methylome-CellRep |
+| 58 形質のゲノムワイド関連解析結果とその多面的作用（pleiotropy）の可視化 | https://github.com/mkanai/fujiplot |
+| 複数の染色体配列間の相同性を可視化する | https://github.com/ya-sainthood/chromosome_
+comparison |
+| メタ 16S シークエンスの各サンプルから得られた細菌叢組成の差を主座標分析・クラスター分析により可視化する | https://github.com/youyuh48/NGSDRY2/ |
 
 ## License
 MIT License. Written by MISHIMA, Hiroyuki.
