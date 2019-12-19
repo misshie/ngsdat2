@@ -19,7 +19,7 @@
 
 | 項目 | URL |
 | --- | --- |
-| ■Level 1| |
+| ■Level 1| （準備編）|
 |コマンドラインの使い方| https://github.com/misshie/ngsdat2 |
 | ■Level 2（実践編）| |
 | 0 から始める疾患ゲノム解析 ver2 |  https://github.com/misshie/ngsdat2 |
