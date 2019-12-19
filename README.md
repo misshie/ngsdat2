@@ -42,8 +42,7 @@
 | LocusZoom プロット：連鎖不平衡情報とともにゲノムワイド関連解析のシグナルを可視化する | https://github.com/hacchy1983/sample-code-for-LocusZoom-plot |
 | 遺伝子近傍の DNA メチル化レベルを可視化する | https://github.com/sin-ttk/DNA-methylome-CellRep |
 | 58 形質のゲノムワイド関連解析結果とその多面的作用（pleiotropy）の可視化 | https://github.com/mkanai/fujiplot |
-| 複数の染色体配列間の相同性を可視化する | https://github.com/ya-sainthood/chromosome_
-comparison |
+| 複数の染色体配列間の相同性を可視化する | https://github.com/ya-sainthood/chromosome_comparison |
 | メタ 16S シークエンスの各サンプルから得られた細菌叢組成の差を主座標分析・クラスター分析により可視化する | https://github.com/youyuh48/NGSDRY2/ |
 
 ## License
