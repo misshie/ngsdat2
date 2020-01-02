@@ -1,5 +1,6 @@
 #!/bin/bash
 set -euo pipefail
+id=DRR006760
 pcd=picard
 bami=${id}.sort.bam
 bamo=${id}.sort.dedup.bam
