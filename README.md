@@ -5,9 +5,9 @@
 ### 正誤表
 大変ご迷惑おかけしました。以下訂正いたします。
 
-1. p.68 14行目
-誤 `$ 040_run-sra-fastq-dump.sh`
-正 `$ ./040_run-sra-fastq-dump.sh`
+1. p.68 14行目  
+誤 `$ 040_run-sra-fastq-dump.sh`  
+正 `$ ./040_run-sra-fastq-dump.sh`  
 
 ### 疾患ゲノム解析ver.2／コマンドラインの使い方 サポート情報
 
