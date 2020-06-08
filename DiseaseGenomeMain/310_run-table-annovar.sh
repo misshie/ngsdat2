@@ -1,4 +1,4 @@
-dg#!/bin/bash
+#!/bin/bash
 set -euo pipefail
 avd=./annovar
 tabav=table_annovar.pl
