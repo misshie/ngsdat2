@@ -9,6 +9,8 @@
 誤 `$ 040_run-sra-fastq-dump.sh`  
 正 `$ ./040_run-sra-fastq-dump.sh`  
 
+1. スクリプト `DiseaseGenomeMain/240_convert_35KJPNv2-indel.sh`と`DiseaseGenomeMain/310_run-table-annovar.sh`の修正点についてPull Requestいただきましたのでmergeしました。
+
 ### 疾患ゲノム解析ver.2／コマンドラインの使い方 サポート情報
 
 1. [DiseaseGenomeMain](https://github.com/misshie/ngsdat2/tree/master/DiseaseGenomeMain)  疾患ゲノム解析２ 本編スクリプト群
