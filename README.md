@@ -19,7 +19,7 @@
 
 ### 質問・コメントなど
 - Twitter ハッシュタグ `#NGS_DAT` をつけてツイートしてください。他の方の質問もみられますのでおすすめします。
-- GitHubの[issueページ](https://github.com/misshie/ngsdat2/issues) 経由でのコメントやプルリクエストも歓迎いたします。
+- GitHubの[issueページ](https://github.com/misshie/ngsdat2/issues) 経由でのコメントやプルリクエストも歓迎いたします。なお、`Filters`を空欄にして検索すると、過去の解決済みissueも表示されます。
 - 直接のメールなどは、質問内容の共有がむずかしいので最後の手段にしていただけると助かります。
 
 ### サポートページ群へのリンク
