@@ -5,6 +5,8 @@
 ### 正誤表
 大変ご迷惑おかけしました。以下訂正いたします。
 
+GitHubの[issue (openおよびclosedの質問・回答・修正）](https://github.com/misshie/ngsdat2/issues?q=is%3Aissue) もご参照ください
+
 1. p.68 14行目  
 誤 `$ 040_run-sra-fastq-dump.sh`  
 正 `$ ./040_run-sra-fastq-dump.sh`  
