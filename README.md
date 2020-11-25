@@ -9,7 +9,7 @@ GitHubの[issue (openおよびclosedの質問・回答・修正）](https://gith
 
 1. p65 32行目
 GitHubのデザイン変更に伴い、  
-誤 clone or downloadをクリックし   
+誤　clone or downloadをクリックし   
 正　緑色の「code」をクリックしてから「Download ZIP」をクリックし  
 
 1. p66 7行目（最初の赤枠5行目）  
