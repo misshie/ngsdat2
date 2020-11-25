@@ -7,6 +7,15 @@
 
 GitHubの[issue (openおよびclosedの質問・回答・修正）](https://github.com/misshie/ngsdat2/issues?q=is%3Aissue) もご参照ください
 
+1. p65 32行目
+GitHubのデザイン変更に伴い、  
+誤 「clone or downloadをクリックし」  
+正　緑色の「code」をクリックしてから「Download ZIP」をクリックし  
+
+1. p66 7行目（最初の赤枠5行目）  
+誤 `cd ngsdat2-master`  
+正 `cd ngsdat2-master/DiseaseGenomeMain`  
+
 1. p.68 14行目  
 誤 `$ 040_run-sra-fastq-dump.sh`  
 正 `$ ./040_run-sra-fastq-dump.sh`  
