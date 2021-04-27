@@ -43,9 +43,9 @@ GitHubのデザイン変更に伴い、
 | 項目 | URL |
 | --- | --- |
 | ■Level 1（準備編）| |
-|コマンドラインの使い方| https://github.com/misshie/ngsdat2 |
+| **コマンドラインの使い方** | https://github.com/misshie/ngsdat2 |
 | ■Level 2（実践編）| |
-| 0 から始める疾患ゲノム解析 ver2 |  https://github.com/misshie/ngsdat2 |
+| **0 から始める疾患ゲノム解析 ver2** |  https://github.com/misshie/ngsdat2 |
 | 0 から始める発現解析 ver2 | https://github.com/RolyPolyCoily/NGSv2 |
 | 0 から始めるエピゲノム解析（ChIP-seq）ver2 | https://github.com/yuifu/ngsdat2_epigenome_chipseq |
 | 0 から始めるエピゲノム解析（BS-seq）ver2 | https://github.com/kono04/NGSv2_BS-seq |
