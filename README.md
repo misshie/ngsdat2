@@ -8,7 +8,7 @@ Level1準備編２「コマンドラインの使い方」／Level2実践編１�
 ### 正誤表
 大変ご迷惑おかけしました。以下訂正いたします。
 
-GitHubの[issue (openおよびclosedの質問・回答・修正）](https://github.com/misshie/ngsdat2/issues?q=is%3Aissue) もご参照ください
+GitHubの[issue (openおよびclosedの質問・回答・修正）](https://github.com/misshie/ngsdat2/issues?q=is%3Aissue) 、Twitterの[#NGS_DATダグ](https://twitter.com/search?q=%23NGS_DAT&f=live)もご参照ください
 
 1. p65 32行目
 GitHubのデザイン変更に伴い、  
@@ -32,7 +32,7 @@ GitHubのデザイン変更に伴い、
 1. [CommandLineHowTo](https://github.com/misshie/ngsdat2/tree/master/CommandLineHowTo) コマンドラインの使い方 スクリプト群
 
 ### 質問・コメントなど
-- Twitter ハッシュタグ `#NGS_DAT` をつけてツイートしてください。他の方の質問もみられますのでおすすめします。
+- Twitter ハッシュタグ [`#NGS_DAT`](https://twitter.com/search?q=%23NGS_DAT&f=live)をつけてツイートしてください。他の方の質問もみられますのでおすすめします。
 - GitHubの[issueページ](https://github.com/misshie/ngsdat2/issues?q=is%3Aissue) 経由でのコメントやプルリクエストも歓迎いたします。なお、`Filters`を空欄にして検索すると、過去の解決済みissueも表示されます。
 - 直接のメールなどは、質問内容の共有がむずかしいので最後の手段にしていただけると助かります。
 
